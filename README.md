@@ -75,6 +75,13 @@ My work centers around Infrastructure as Code, CI/CD automation, containerized e
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
 
 ---
+## 🌍 Languages
+
+- Spanish 
+- German 
+- English (Professional working proficiency)  
+
+---
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-rodriguez-926418b6/)
