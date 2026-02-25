@@ -1,6 +1,49 @@
-## Hallo, Ich bin Jose 👋
+# Hi, I'm Jose Rodriguez 👋  
+DevSecOps & Cloud Engineer based in Germany 🇩🇪
 
 ---
+
+## 🚀 About Me
+
+I design, automate, and secure cloud-native infrastructures with a strong focus on reliability, scalability, and security.
+
+My work centers around Infrastructure as Code, CI/CD automation, containerized environments, and secure cloud deployments. I enjoy bridging development and operations to build production-ready systems that are maintainable and resilient.
+
+---
+
+## 🧠 Core Expertise
+
+- ☁️ AWS Cloud Architecture (EC2, S3, ECR, EBS, Elastic Beanstalk, EKS, Route 53)
+- 🏗 Infrastructure as Code (Terraform)
+- 🔄 CI/CD Automation (Jenkins, GitHub Actions)
+- 🐳 Docker & Containerized Workloads
+- 🔐 DevSecOps & Security Integration (Trivy, Snyk, SAST)
+- 🌐 Angular & NestJS Backend Development
+- 🧪 Testing & Code Quality Automation
+- 🛠 Linux & Cloud Environment Administration
+
+---
+
+## 🏗 What I Build
+
+- Production-ready CI/CD pipelines with integrated security controls  
+- Automated and reproducible AWS infrastructure  
+- Secure and scalable container-based applications  
+- Fullstack cloud-native solutions  
+- Infrastructure designed with security-by-default principles  
+
+---
+
+## 🔐 Engineering Approach
+
+- Automation-first mindset  
+- Shift-left security integration  
+- Infrastructure modularization  
+- Clean and maintainable architecture  
+- Continuous improvement & learning  
+
+---
+
 
 ### 💻 Technologien
 
